@@ -15,6 +15,7 @@
 
 ## System Architecture
 
+![System Architecture](image/System_Archi.drawio.png)
 
 ## Installation & Setup
 
